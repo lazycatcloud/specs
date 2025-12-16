@@ -29,7 +29,7 @@ after you apply for an application successfully, subsequent application upgrades
 `lzc-cli appstore publish <lpk path>`
 
 # view published apps
-After successful publishing, you can view your app at https://appstore.lazycat.cloud.
+after successful publishing, you can view your app at https://appstore.lazycat.cloud.
 
 ## communication and help
 you can speak your mind at https://bbs.lazycat.cloud.
